@@ -18,27 +18,32 @@ A sleek and functional front-end clone of the iPhone interface. This project rep
 ## 📸 Screenshots
 
 ### Home Screen – Dark Mode  
-![Dark Mode Home](./3561b9d1-47dd-42a1-9fb7-00b8a5abab9b.png)
+![image](https://github.com/user-attachments/assets/02dc0e93-6657-4fc5-b3e8-c49a2d7a9f49)
+
 
 ---
 
 ### Home Screen – Light Mode  
-![Light Mode Home](./93227550-f15b-4497-93e4-33568caaf0b2.png)
+![image](https://github.com/user-attachments/assets/747d73f3-0b13-4056-966d-ac1104e75392)
+
 
 ---
 
 ### Dial Pad View  
-![Dial Pad](./8f975268-f350-472c-973d-08a7d15626f6.png)
+![image](https://github.com/user-attachments/assets/4b1e1093-17fd-40cd-9fd4-cc0ffe4ebe5e)
+
 
 ---
 
 ### Music Interface  
-![Music Interface](./61c559a5-e8ba-4fce-95c3-61b58c47cfc0.png)
+![image](https://github.com/user-attachments/assets/7717ed3c-ce17-4eec-81e3-d38c13a6ed26)
+
 
 ---
 
 ### Safari-like Browser  
-![Safari View](./39755b74-0a2f-40ed-9c63-d112d9178007.png)
+![image](https://github.com/user-attachments/assets/f3b30bed-80ca-4a21-ac5d-15ca75588ea7)
+
 
 ---
 
